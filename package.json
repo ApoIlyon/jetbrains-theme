@@ -51,5 +51,8 @@
 				"path": "./themes/jetbrains-dark-color_theme.json"
 			}
 		]
+	},
+	"devDependencies": {
+		"@vscode/vsce": "^3.7.1"
 	}
 }
